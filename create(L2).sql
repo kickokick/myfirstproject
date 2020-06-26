@@ -8,3 +8,5 @@ CREATE TABLE flights (
 INSERT INTO flights
   (origin, destination, duration)
   VALUES ('NEW YORK', 'LOUNDON', 415)
+
+
